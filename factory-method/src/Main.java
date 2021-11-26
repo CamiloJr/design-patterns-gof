@@ -18,5 +18,5 @@ public class Main {
 
         urbanTicket.ShowDetails();
         interstateTicket.ShowDetails();
-    }
+    }   
 }

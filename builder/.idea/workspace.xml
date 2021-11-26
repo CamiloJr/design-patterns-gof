@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df99c634-4011-485b-bec1-4169e558970c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/abstract-factory-uml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/abstract-factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/ConcreteCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/ConcreteTicketInterstateBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/ConcreteTicketUrbanBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/TicketInterstateBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstract-factory/src/TicketUrbanBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cheeseburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheeseburgerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chickenburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChickenburgerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hamburguer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HamburguerBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../factory-method/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory-method/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/src/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/src/TicketInterstateBus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory-method/src/TicketUrbanBus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uml/design-patterns-uml.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/../uml/design-patterns-uml.mdj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21SXiJIrP2XR9asiuvaNMkBcJA5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="builder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df99c634-4011-485b-bec1-4169e558970c" name="Changes" comment="" />
+      <created>1637935588865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637935588865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
