@@ -2,6 +2,7 @@ import java.awt.Dimension;
 import javax.swing.JFrame;
 
 public class Window extends JFrame {
+
     private static Window window = null;
 
     private Window(){
