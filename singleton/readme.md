@@ -4,5 +4,5 @@
 
 ##### UML:
 
-<img src="https://github.com/CamiloJr/design-patterns-gof/blob/main/singleton/singleton-uml.jpg" style="zoom: 50%;" />
+<img src="https://github.com/CamiloJr/design-patterns-gof/blob/main/singleton/singleton-uml.jpg" style="zoom: 30%;" />
 
