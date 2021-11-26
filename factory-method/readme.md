@@ -4,5 +4,5 @@
 
 ##### UML:
 
-<img src="D:\Users\Camilo\GitHubD\design-patterns-gof\factory-method\factory-method-uml.jpg" style="zoom: 33%;" />
+<img src="https://github.com/CamiloJr/design-patterns-gof/blob/main/factory-method/factory-method-uml.jpg" width="800" />
 
