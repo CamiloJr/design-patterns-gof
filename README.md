@@ -12,4 +12,5 @@
 - [Bridge](https://github.com/CamiloJr/design-patterns-gof/tree/main/bridge);
 - [Adapter](https://github.com/CamiloJr/design-patterns-gof/tree/main/adapter);
 - [Proxy](https://github.com/CamiloJr/design-patterns-gof/tree/main/proxy);
+- [Decorator](https://github.com/CamiloJr/design-patterns-gof/tree/main/decorator);
 
