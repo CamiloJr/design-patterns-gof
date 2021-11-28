@@ -7,3 +7,8 @@
 - [Builder](https://github.com/CamiloJr/design-patterns-gof/tree/main/builder);
 - [Protptype](https://github.com/CamiloJr/design-patterns-gof/tree/main/prototype);
 
+###  Structural patterns:
+
+- [Bridge](https://github.com/CamiloJr/design-patterns-gof/tree/main/bridge);
+- [Adapter](https://github.com/CamiloJr/design-patterns-gof/tree/main/adapter);
+
