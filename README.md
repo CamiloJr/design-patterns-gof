@@ -19,3 +19,6 @@ Design patterns with examples in Java and UML diagrams. The codes were implement
 - [Facade](https://github.com/CamiloJr/design-patterns-gof/tree/main/facade);
 - [Flyweight](https://github.com/CamiloJr/design-patterns-gof/tree/main/flyweight);
 
+### Behavioral patterns:
+
+- [Command](https://github.com/CamiloJr/design-patterns-gof/tree/main/command);
