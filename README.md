@@ -22,3 +22,7 @@ Design patterns with examples in Java and UML diagrams. The codes were implement
 ### Behavioral patterns:
 
 - [Command](https://github.com/CamiloJr/design-patterns-gof/tree/main/command);
+- [Strategy](https://github.com/CamiloJr/design-patterns-gof/tree/main/strategy);
+- [State](https://github.com/CamiloJr/design-patterns-gof/tree/main/state);
+- [Observer](https://github.com/CamiloJr/design-patterns-gof/tree/main/observer);
+- [Mediator](https://github.com/CamiloJr/design-patterns-gof/tree/main/mediator);
