@@ -30,3 +30,5 @@ Design patterns with examples in Java and UML diagrams. The codes were implement
 - [Template Method](https://github.com/CamiloJr/design-patterns-gof/tree/main/template-method);
 - [Interpreter](https://github.com/CamiloJr/design-patterns-gof/tree/main/interpreter);
 - [Memento](https://github.com/CamiloJr/design-patterns-gof/tree/main/memento);
+- [Iterator](https://github.com/CamiloJr/design-patterns-gof/tree/main/iterator);
+- [Visitor](https://github.com/CamiloJr/design-patterns-gof/tree/main/visitor);
