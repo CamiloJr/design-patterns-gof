@@ -1,6 +1,8 @@
 # Design Patterns - GoF
 Design patterns with examples in Java and UML diagrams. The codes were implemented using the IntelliJ IDE. UML diagrams were drawn using StarUML.
 
+Based on the course: https://www.udemy.com/course/gof-design-patterns/
+
 ###  Creational patterns:
 
 - [Singleton](https://github.com/CamiloJr/design-patterns-gof/tree/main/singleton);
